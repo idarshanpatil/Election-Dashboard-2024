@@ -37,11 +37,32 @@ License
 This project is intended for educational and informational purposes only. Data used in the dashboard is sourced from publicly available records. Attribution to the data source is recommended.
 
 Let me know if you'd like to add anything specific or customize further!
-
 Screenshots:
+
+
+
 ![Screenshot 2024-11-23 212254](https://github.com/user-attachments/assets/9e124432-cc24-440c-8600-1ef318d2ae84)
+
+
+
+
+
+
+
 ![Screenshot 2024-11-23 212242](https://github.com/user-attachments/assets/4558f58a-8544-4f8b-8884-4ff37ee2089d)
+
+
+
+
+
+
 ![Screenshot 2024-11-23 212214](https://github.com/user-attachments/assets/25a234be-b51a-43f1-87ed-319e7780d3b7)
+
+
+
+
+
+
 ![Screenshot 2024-11-23 212230](https://github.com/user-attachments/assets/1567237d-1bce-4b45-aa1a-230d49a26cc0)
 
 
